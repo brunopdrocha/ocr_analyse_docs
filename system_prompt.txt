@@ -65,7 +65,7 @@ json{
   "nome_requerente": "null",
   "endereco_imovel": "null",
   "numero_processo": "null",
-  "cpf_cnpj": "Não informado",
+  "cpf_cnpj": "null",
   "responsavel_tecnico": "null",
   "prazo_validade": "31/12/2025"
 }
