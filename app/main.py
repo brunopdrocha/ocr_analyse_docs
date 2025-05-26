@@ -83,14 +83,16 @@ def main():
                     f.writelines(resultado)
                 print(f"✅ Texto extraído e salvo")
 
-                # Generate summary
-                resumo = perguntar_sobre_documento(imagem_paths, "Resuma o conteúdo principal deste documento.")
+                resultado_str="".join(resultado)
+                print(resultado_str)
+                # Generate response
+                resposta_llm = perguntar_sobre_documento(resultado_str)
                 
                 resposta_path = os.path.join(respostas_folder, f"{nome_documento}_resumo.txt")
                 with open(resposta_path, "w", encoding="utf-8") as f:
-                    f.write(resumo)
-                
-                print(f"📝 Resumo: {resumo[:100]}...")
+                    f.write(resposta_llm)
+                print(f"📝 Resposta do llm do documento {filename}")
+                print(resposta_llm)
 
                 # # Interactive questions
                 # while True:

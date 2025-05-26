@@ -1,0 +1,14 @@
+```json
+{
+  "tipo_documento": "Alvará de Licença para Localização",
+  "numero_documento": "1.775.979",
+  "data_emissao": "24 de janeiro de 2025",
+  "orgao_emissor": "SECRETARIA MUNICIPAL DE FINANÇAS",
+  "nome_requerente": "VIA S.A.",
+  "endereco_imovel": "PC. TIRADENTES - Nº: 000356",
+  "numero_processo": "20-111856/2022",
+  "cpf_cnpj": "33.041.260/0912-91",
+  "responsavel_tecnico": "null",
+  "prazo_validade": "ENQUANTO SATISFIZER AS EXIGÊNCIAS DA LEGISLAÇÃO EM VIGOR."
+}
+```

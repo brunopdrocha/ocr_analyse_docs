@@ -1,23 +1,14 @@
-Com certeza! Aqui está um resumo do conteúdo principal do documento:
-
-**Documento:** Licença de Obra, Reparo ou Serviço em Vias Públicas emitida pela Prefeitura da Cidade do Rio de Janeiro.
-
-**Informações principais:**
-
-*   **Tipo de Licença:** Legalização de Obra, Reparo ou Serviço em Vias Públicas
-*   **Data de Emissão:** 07/01/2025
-*   **Número da Licença:** 06068/2024
-*   **Número do Processo:** CSV-PRO-2024/00390
-*   **Obra:**  Obra entre Ladeira da Freguesia e Av. Geremário Dantas, 0 - FREGUESIA - JACAREPAGUÁ - RIO DE JANEIRO - RJ
-*   **Natureza da Obra:** Poste instalado; Outras: Instalação de Poste com painel Elétrico para energizar sistema automatizado.
-*   **Prazo:** 16/08/2023 a 22/08/2023
-*   **Empresa Requerente:** IGUA RIO DE JANEIRO S.A
-*   **Dados do Responsável Técnico:** IGUA RIO DE JANEIRO S.A, com o profissional responsável sendo LUCAS TADEU BERGAMIM ARROSTI.
-
-**Condições de Execução:**
-
-*   A licença não pode ser alterada ou plastificada.
-*   As obras devem seguir os padrões estabelecidos pela Resolução SECONSERVA nº 07 de 09/07/2010.
-*   A licença é acompanhada do projeto técnico aprovado.
-
-Assinado por JOSUE LASARO RESENDE DE PAIVA, Assistente I.
+```json
+{
+  "tipo_documento": "Licença de Obra, Reparo ou Serviço em Vias Públicas",
+  "numero_documento": "06068/2024",
+  "data_emissao": "07/01/2025",
+  "orgao_emissor": "SECRETARIA MUNICIPAL DE CONSERVAÇÃO / SECONSERVA",
+  "nome_requerente": "IGUÁ RIO DE JANEIRO S.A",
+  "endereco_imovel": "Esquina entre Ladeira da Freguesia e Av. Geremário Dantas, 0 - FREGUESIA JACAREPAGUÁ - RIO DE JANEIRO - RJ",
+  "numero_processo": "CSV-PRO-2024/00390",
+  "cpf_cnpj": "42.353.180/0001-35",
+  "responsavel_tecnico": "LUCAS TADEU BERGAMIM ARROSTI",
+  "prazo_validade": "null"
+}
+```
