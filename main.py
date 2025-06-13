@@ -4,7 +4,7 @@ import time
 from PIL import Image, ImageFilter
 from pdf2image import convert_from_path
 from google.cloud import vision
-from pergunta_gemini import perguntar_sobre_documento
+from scripts.pergunta_gemini import perguntar_sobre_documento
 from dotenv import load_dotenv
 import json
 
